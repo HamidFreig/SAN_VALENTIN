@@ -5,10 +5,8 @@ import fondo from "./img/hk.jpg"; // Importamos la imagen
 const App2 = () => {
   return (
     <div className="app-container" style={{ backgroundImage: `url(${fondo})` }}>
-      <h1>
-        Te espero en Restaurant Ribs, 21:00 hrs para celebrar este hermoso día
-        💖✨
-      </h1>
+      <h1>💖✨ Te espero en Club Ribs </h1>
+      <h1>21:00 hrs para celebrar este hermoso día 💖✨</h1>
     </div>
   );
 };
